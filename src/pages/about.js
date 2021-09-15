@@ -20,7 +20,7 @@ const AboutPage = ({data}) => (
     />
     <DualInfoBlock heading='A Message From CEO'/>
     <InfoBlock heading="About Vision"></InfoBlock>
-    <Teamphotosection></Teamphotosection>
+    <Teamphotosection/>
   </Layout>
 )
 
