@@ -7,7 +7,7 @@ import Seo from "../components/seo"
 import HeroSection from "../components/Reuseable/HeroSection";
 import InfoBlock from "../components/Reuseable/InfoBlock";
 import DualInfoBlock from "../components/Reuseable/DualInfoBlock";
-import Teamphotosection from "../components/about/Teamphotosection";
+import Teamphotosection from "../components/About/Teamphotosection";
 
 const AboutPage = ({data}) => (
   <Layout>
