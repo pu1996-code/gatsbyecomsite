@@ -26,7 +26,7 @@ const AboutPage = ({data}) => (
 
 export const quesry = graphql `
 {
-  img: file(relativePath: {eq: "about.png"}) {
+  img: file(relativePath: {eq: "contact.png"}) {
     childImageSharp {
       fluid(maxWidth: 400, maxHeight: 250) {
         ...GatsbyImageSharpFluid_tracedSVG
